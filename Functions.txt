@@ -1,0 +1,19 @@
+User Registration [Done] 
+login/logout.[Done]
+Transfer funds [Done]
+Cash Deposit/ withdraw [Done]
+Mobile load [Done]
+Bonus Game [Done]
+Transaction History /check balance[Done]
+loan [Done]
+Bill Payments [Done]
+Ticket Booking[Done]
+currency conversion [Done]
+Namaz Timing. [Done]
+customer support/ contact on whatsapp [Done]
+Game[Done]
+Donation [Done]
+Exit [Done]
+
+
+
